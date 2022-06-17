@@ -28,3 +28,4 @@ for line in climate_data:
             print(str(celsius)+", "+str(kelvin))
 
 #todo
+# find out how to reset my terminal preferences on macbook so that it doesn't always jump out for `ls` commands
