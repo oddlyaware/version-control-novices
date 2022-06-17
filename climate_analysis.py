@@ -29,3 +29,4 @@ for line in climate_data:
 
 #todo
 # find out how to reset my terminal preferences on macbook so that it doesn't always jump out for `ls` commands
+# afraid to change anything here so only commenting on file 
